@@ -1,6 +1,6 @@
 # Socotra - Moblie Application
 <p>🎉 WELCOME 🎉</p>
-<p>🚀 UI Application of Socotra Island</p>
+<p>🚀 Flutter UI Application of Socotra Island</p>
 
 # _Screenshots_
 
