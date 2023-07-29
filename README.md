@@ -3,22 +3,22 @@
 <p>🚀 UI Application of Socotra Island</p>
 
 # _Screenshots_
-
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" height="480px" /> <img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075969.png" height="480px"/> <img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" height="480px"/>
 - <p><b>Loading Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/1.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/><img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Welcoming Notification</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/2.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/><img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Main Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/3.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Task Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/4.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Chart Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/5.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Info Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/6.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>CMD Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/7.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>Running Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/8.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
 - <p><b>About Screen</b></p>
-![Screenshots demo](https://github.com/Mohammed-Gawgah/Task-Manager-Desktop-App/blob/main/Screenshots/9.JPG)
+<img src="https://github.com/Mohammed-Gawgah/Socotra-App/blob/main/Screenshots/Screenshot_1655075914.png" width="400"/>
